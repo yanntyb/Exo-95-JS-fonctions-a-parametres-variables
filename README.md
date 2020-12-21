@@ -19,4 +19,4 @@
 
 
 Invoquez toutes vos fonctions et testez les dans le navigateur, les messages devront s'afficher dans un paragraphe que
-vous pourrez créer soit en HTML, soit en JS !
+vous pourrez créer soit en HTML, soit en JS !a
